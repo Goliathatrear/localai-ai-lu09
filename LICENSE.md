@@ -1,4 +1,4 @@
-# 
+# Premium LocalAI modèles. Avec recherche sémantique et interface conviviale — optimisé pour des performances et une efficacité maximales.
 
 
 
